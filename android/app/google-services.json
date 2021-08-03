@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065034811058",
+    "project_id": "chatapp-5df4c",
+    "storage_bucket": "chatapp-5df4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065034811058:android:59c3e25357386c7d0eabab",
+        "android_client_info": {
+          "package_name": "com.pratishodhi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065034811058-hkfdujqunagefp6g8f34g4c194jrkbgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwh_QXxCDAzel76GEWixn7vsquElpoCvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065034811058-hkfdujqunagefp6g8f34g4c194jrkbgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
